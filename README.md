@@ -58,6 +58,6 @@ cd ei-study
 ##### open in terminal:
 ```bash
 
-cd exercise-2
+cd exercise-2/SatelliteCommandSystem
 java -cp build\classes SatelliteCommandSystem
 ```
