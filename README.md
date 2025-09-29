@@ -59,5 +59,6 @@ cd ei-study
 ```bash
 
 cd exercise-2/SatelliteCommandSystem
+javac -d build\classes -sourcepath src src\SatelliteCommandSystem.java
 java -cp build\classes SatelliteCommandSystem
 ```
